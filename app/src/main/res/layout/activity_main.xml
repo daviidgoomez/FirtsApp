@@ -11,7 +11,7 @@
 <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:text="Hello World!"
+    android:text="Título"
     android:textColor="@color/purple_700"
     android:textSize="50sp"
     android:layout_margin="60px"
